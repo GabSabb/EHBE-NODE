@@ -1,7 +1,17 @@
 # EHBE-NODE
 This repository constitutes complementary material for the paper "Neural Ordinary Differential Equations for Simulations of Residences Heated with Electric Baseboards" presented at eSim 2024.
 
-The experiments were done using Python 3.9.13.
+## Requierments
+The experiments were done using Python 3.9.13. In addition, the following Python packages are needed to run the Jupyter notebook:
+
+-matplotlib==3.6.2
+-neuromancer==1.3
+-numpy==1.23.4
+-pandas==1.3.2
+-scikit_learn==1.1.3
+-seaborn==0.12.1
+-slim==0.1
+-torch==1.13.1+cu116
 
 ## Repository structure
 * Residential_NODE.ipynb: Jupyter notebook that imports and treats the data, generates the model, trains it and visualises the results.
