@@ -5,7 +5,9 @@ The experiments were done using Python 3.9.13.
 
 ## Repository structure
 * Residential_NODE.ipynb: Jupyter notebook that imports and treats the data, generates the model, trains it and visualises the results.
+<br>
 * house_data.csv: Includes the measured data of 9 thermostats of Hydro-Québec's Experimental House for Building Efficiency (EHBE) situated in Shawinigan, Quebec, Canada. It includes room temperature measurements and heating outputs of each electric baseboard associated with each thermostat. It also includes the global horizontal irradiation (GHI) and exterior drybulb temperature. Temperatures are measured in $°C$, heating energy in $Wh$ and GHI in $Wm^{-2}$. The original dataset can be found under the same name on [Zenodo](https://doi.org/10.5281/zenodo.10156745) or [GitHub](https://github.com/HarryVallianos/Automated-MultiZone-Model-Generation).
+<br>
 * requirements.txt: Text file listing the different Python libraries requiered to run the Jupyter notebook.
 
 ## Other publications the same data as this repository
