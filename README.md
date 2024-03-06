@@ -3,7 +3,7 @@ This repository constitutes complementary material for the paper "Neural Ordinar
 
 ![Test image](/figures/Model_Output.png)  
 
-## Requierments
+## Requirements
 The experiments were done using Python 3.9.13. In addition, the following Python packages are needed to run the Jupyter notebook:
 
 - matplotlib==3.6.2
